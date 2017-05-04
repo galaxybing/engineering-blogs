@@ -21,7 +21,7 @@
 | [I](#i-technologies) 	| [J](#j-technologies) 	| [K](#k-technologies) 	| [L](#l-technologies) 	| [M](#m-technologies) 	| [N](#n-technologies) 	| [O](#o-technologies) 	| [P](#p-technologies) 	| [Q](#q-technologies) 	|
 | [R](#r-technologies) 	| [S](#s-technologies) 	| [T](#t-technologies) 	| [U](#u-technologies) 	| [V](#v-technologies) 	| [W](#w-technologies) 	| [X](#x-technologies) 	| [Y](#y-technologies) 	| [Z](#z-technologies)  	|
 
-### [Article/Technologies - 现有的中英文对照篇](#article technologies)
+### [Article/Technologies - 现有的中英文对照篇](#articletechnologies)
 
 ### Companies
 
